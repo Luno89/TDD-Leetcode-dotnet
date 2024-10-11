@@ -1,0 +1,6 @@
+@tdd_webapi_HostAddress = http://localhost:5128
+
+GET {{tdd_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

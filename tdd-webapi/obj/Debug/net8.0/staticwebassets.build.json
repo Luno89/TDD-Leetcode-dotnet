@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vh3SZccWnKqU3pEQ70ANp+VAC7Ggznhb4lRd7YUQRKQ=",
+  "Source": "tdd-webapi",
+  "BasePath": "_content/tdd-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
